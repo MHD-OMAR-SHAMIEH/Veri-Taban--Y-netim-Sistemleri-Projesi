@@ -1,0 +1,83 @@
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\veriTabanProjesi.exe.config
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\veriTabanProjesi.exe
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\veriTabanProjesi.pdb
+C:\Users\Yazan\source\repos\veriTabanProjesi\obj\Debug\veriTabanProjesi.csproj.AssemblyReference.cache
+C:\Users\Yazan\source\repos\veriTabanProjesi\obj\Debug\veriTabanProjesi.Form1.resources
+C:\Users\Yazan\source\repos\veriTabanProjesi\obj\Debug\veriTabanProjesi.Properties.Resources.resources
+C:\Users\Yazan\source\repos\veriTabanProjesi\obj\Debug\veriTabanProjesi.csproj.GenerateResource.cache
+C:\Users\Yazan\source\repos\veriTabanProjesi\obj\Debug\veriTabanProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Yazan\source\repos\veriTabanProjesi\obj\Debug\veriTabanProjesi.exe
+C:\Users\Yazan\source\repos\veriTabanProjesi\obj\Debug\veriTabanProjesi.pdb
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\Npgsql.dll
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Buffers.dll
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Memory.dll
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Text.Json.dll
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Threading.Channels.dll
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.ValueTuple.dll
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\Npgsql.xml
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Buffers.xml
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Memory.xml
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Text.Json.xml
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Threading.Channels.xml
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Yazan\source\repos\veriTabanProjesi\bin\Debug\System.ValueTuple.xml
+C:\Users\Yazan\source\repos\veriTabanProjesi\obj\Debug\veriTabanProjesi.csproj.CopyComplete
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\veriTabanProjesi.exe.config
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\veriTabanProjesi.exe
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\veriTabanProjesi.pdb
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\Npgsql.dll
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Buffers.dll
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Memory.dll
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Text.Json.dll
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Threading.Channels.dll
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.ValueTuple.dll
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\Npgsql.xml
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Buffers.xml
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Memory.xml
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Text.Json.xml
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Threading.Channels.xml
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\bin\Debug\System.ValueTuple.xml
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\obj\Debug\veriTabanProjesi.csproj.AssemblyReference.cache
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\obj\Debug\veriTabanProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\obj\Debug\veriTabanProjesi.Form1.resources
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\obj\Debug\veriTabanProjesi.Properties.Resources.resources
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\obj\Debug\veriTabanProjesi.csproj.GenerateResource.cache
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\obj\Debug\veriTabanProjesi.csproj.CoreCompileInputs.cache
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\obj\Debug\veriTabanProjesi.csproj.CopyComplete
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\obj\Debug\veriTabanProjesi.exe
+C:\Users\MHD OMAR\OneDrive\Desktop\ODEVLER\VTYSProje\veriTabanProjesi\obj\Debug\veriTabanProjesi.pdb
